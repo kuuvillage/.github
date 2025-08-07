@@ -1,10 +1,10 @@
-![kuu village main visual](images/mainvisual.jpg)
+![kuu village main visual](../images/mainvisual.jpg)
 
 # kuu village
 
 > ***A perma-pop-up village experiment for plural, off-grid futures***
 
-[日本語版 / Japanese Version](README_JA.md)
+[日本語版 / Japanese Version](../README_JA.md)
 
 ## About us
 
