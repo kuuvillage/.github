@@ -4,3 +4,6 @@
 - 得たこと
 - 反省
 - 次回に向けて
+- 参考
+  - https://hackmd.io/@ecdysisxyzbot-ea-001/SyWjyuEaee
+  - https://note.com/koichi_takahashi/n/nb16824069669
