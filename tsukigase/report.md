@@ -7,3 +7,5 @@
 - 参考
   - https://hackmd.io/@ecdysisxyzbot-ea-001/SyWjyuEaee
   - https://note.com/koichi_takahashi/n/nb16824069669
+  - https://note.com/hirotaiyohamada/n/n76ec89457f69
+  - https://note.com/hal_sk/n/n80033fb51219?sub_rt=share_pb
